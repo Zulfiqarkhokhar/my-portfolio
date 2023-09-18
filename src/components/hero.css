@@ -1,0 +1,27 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+.hero {
+  margin-bottom: 12%;
+}
+h1 {
+  font-size: 75px;
+  font-weight: bold;
+  background: -webkit-linear-gradient(0deg, #13b0f5, #e70faa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+h2 {
+  font-size: 40px;
+  font-weight: bold;
+  color: #42446e;
+}
+.decription {
+  margin-top: 12%;
+  margin-left: 2%;
+}
+.profile img {
+  width: 330px;
+  margin-top: 5%;
+  margin-left: 30%;
+}
